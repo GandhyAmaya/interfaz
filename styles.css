@@ -137,46 +137,6 @@
 .footer a:hover {
 text-decoration: underline;
 }
-.Este_es_el_agregado{
-
-    background-color: rgba(255, 255, 255, 0.1);
-    margin-left: 30px;
-    border: 2px solid white;
-    border-radius: 40px;
-    color: white;
-    padding: 68px 60px 40px;
-    min-height: 500px;
-    width: 300px;
-    display: flex;
-    justify-content: center;
-
-}
-
-.contenedor__erroneo-img{
-    width: 100px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
-}
-.contenedor__erroneo--cabecera{
-  
-    -webkit-box-shadow: 22px 5px 34px 8px rgba(255,237,41,0.53); 
-    box-shadow: 22px 5px 34px 8px rgba(255,237,41,0.53);
-        
-        
-    background: linear-gradient(#00FF00, #FFFF00);
-    border: 2px solid white;
-    margin: auto;
-    border-radius: 20px;
-    font-size: 20px;
-    font-family: 'Mulish', sans-serif;
-}
-.contenedor__erroneo--cabecera p{
-    margin: 20px ;
-    font-weight: normal;
-
-    }
 @media only screen and (max-width: 600px){
     .login__container{
         background-color: transparent;
